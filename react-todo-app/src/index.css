@@ -1,0 +1,30 @@
+  
+#root {
+    display: flex;
+    height: 100%;
+}
+.todo {
+    padding: 38px;
+}
+.todo-List {
+    padding: 0%;
+}
+.todo-Items {
+    list-style: none;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.todo-Form {
+    justify-content: space-between;
+}
+.hButton {
+    margin-left: 50px;
+}
+.nameInput {
+    margin: 15px;
+}
+.titleInput {
+    margin: 15px;
+}
